@@ -19,7 +19,7 @@ tmp_*
 config.ini
 *.pkm
 error_*.txt
-src/com/dabomstew/pkrandom/localtests
+src/main/java/com/dabomstew/pkrandom/localtests
 bin
 *.log
 *.bin
